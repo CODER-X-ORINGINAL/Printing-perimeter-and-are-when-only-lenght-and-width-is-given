@@ -1,1 +1,1 @@
-# Printing-perimeter-and-are-when-only-lenght-and-width-is-given
+# calculating-perimeter-and-are-when-only-lenght-and-width-is-given
